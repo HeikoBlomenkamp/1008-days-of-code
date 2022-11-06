@@ -1,0 +1,35 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2022.11.06.12.57.25;	author heiko;	state Exp;
+branches;
+next	;
+
+
+desc
+@15:06 Variables and Data types
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# $Id$
+#
+# $Log$
+
+characterName = "John"
+characterAge = "35"
+
+print("There once was a man named " + characterName + ",")
+print("he was " + characterAge + " years old.")
+print("He really liked the name " + characterName + ",")
+print("but didn't like being " + characterAge + ".")
+@

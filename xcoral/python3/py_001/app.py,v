@@ -1,0 +1,28 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2022.11.06.11.51.16;	author heiko;	state Exp;
+branches;
+next	;
+
+
+desc
+@6:40 setup and hello world
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# $Id$
+#
+# $Log$
+
+print("hello, world")@

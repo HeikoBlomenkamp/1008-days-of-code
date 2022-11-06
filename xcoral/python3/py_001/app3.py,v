@@ -1,0 +1,34 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2022.11.06.12.27.43;	author heiko;	state Exp;
+branches;
+next	;
+
+
+desc
+@10:23 Drawing a shape
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# $Id$
+#
+# $Log$
+
+print("/___|")
+
+print("   /|")
+print("  / |")
+print(" /  |")
+
+@
