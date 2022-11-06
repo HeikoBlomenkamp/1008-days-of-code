@@ -1,3 +1,10 @@
 # #100DaysOfCode Log - Round 1 - Heiko Blomenkamp
 
 The log of my [#100DaysOfCode](https://twitter.com/hashtag/100daysofcode) challenge. Started on November 6, Sunday, 2022.
+
+## Log
+
+### R1D1
+python 3.x: *hello, world*, Drawing a shape, Variables and Data types; Tutorial: https://youtu.be/rfscVS0vtbw
+
+### R1D2
