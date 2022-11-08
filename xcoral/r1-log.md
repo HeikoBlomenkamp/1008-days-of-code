@@ -11,3 +11,6 @@ python 3.x: *hello, world*, Drawing a shape, Variables and Data types; Tutorial:
 python 3.x: Working with strings; Tutorial: https://youtu.be/rfscVS0vtbw
 
 ### R1D3
+python 3.x: numpydoc docstring, pytest unittest; IDE: https://www.spyder-ide.org/
+
+### R1D4
