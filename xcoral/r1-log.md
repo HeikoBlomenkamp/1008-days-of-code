@@ -8,3 +8,6 @@ The log of my [#100DaysOfCode](https://twitter.com/hashtag/100daysofcode) challe
 python 3.x: *hello, world*, Drawing a shape, Variables and Data types; Tutorial: https://youtu.be/rfscVS0vtbw
 
 ### R1D2
+python 3.x: Working with strings; Tutorial: https://youtu.be/rfscVS0vtbw
+
+### R1D3
