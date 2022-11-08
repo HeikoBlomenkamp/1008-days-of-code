@@ -1,0 +1,37 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2022.11.07.22.56.17;	author heiko;	state Exp;
+branches;
+next	;
+
+
+desc
+@27:03 Working with strings
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# $Id$
+#
+# $Log$
+
+print("[01] Giraffe\nAcademy")
+print("[02] Giraffe\"Academy")
+print()
+
+print("[03]")
+phrase = "Giraffe Academy"
+print(phrase)
+
+print("[04] " + phrase + " is cool")
+@
