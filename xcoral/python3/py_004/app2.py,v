@@ -1,0 +1,36 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2022.11.09.21.54.12;	author heiko;	state Exp;
+branches;
+next	;
+
+
+desc
+@38:18 Working with numbers
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# $Id$
+#
+# $Log$
+
+print(2.0987)
+print(-2.0987)
+print()
+
+print(3 + 4.5)
+print(3 - 4.5)
+print(3 / 4.5)
+print(3 * 4.5)
+@
