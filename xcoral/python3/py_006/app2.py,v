@@ -1,0 +1,37 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2022.11.11.22.23.27;	author heiko;	state Exp;
+branches;
+next	;
+
+
+desc
+@38:18 Working with numbers
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# $Id$
+#
+# $Log$
+
+myNum = -5
+print(abs(myNum))    # 5
+
+print(pow(4, 6))     # 4096
+print(max(4, 6))     # 6
+print(min(4, 6))     # 4
+
+print(round(3.2))    # 3
+print(round(3.7))    # 4
+@

@@ -1,0 +1,36 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2022.11.11.20.49.10;	author heiko;	state Exp;
+branches;
+next	;
+
+
+desc
+@38:18 Working with numbers
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# $Id$
+#
+# $Log$
+
+print(3 * 4 + 5)    # 17
+print(3 * (4 + 5))  # 27
+
+print(10 % 3)  # 1
+
+myNum = 5
+print(myNum)
+print(str(myNum) + " -> my favorite number")
+@
