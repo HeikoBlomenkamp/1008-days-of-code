@@ -1,0 +1,31 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2022.11.13.21.03.14;	author heiko;	state Exp;
+branches;
+next	;
+
+
+desc
+@48:26 Getting input from users
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# $Id$
+#
+# $Log$
+
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print("Hello " + name + "! You are " + age)
+@
