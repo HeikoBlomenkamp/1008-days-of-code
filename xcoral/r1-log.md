@@ -26,3 +26,6 @@ python 3.x: Working with numbers; Tutorial: https://youtu.be/rfscVS0vtbw
 python 3.x: numpydoc docstring, pytest unittest; IDE: https://www.spyder-ide.org/
 
 ### R1D8
+python 3.x: Working with numbers, Getting input from users; Tutorial: https://youtu.be/rfscVS0vtbw
+
+### R1D9
